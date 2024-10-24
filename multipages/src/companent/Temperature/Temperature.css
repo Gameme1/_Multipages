@@ -1,0 +1,15 @@
+.temperature-variable{
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(3 ,1fr);
+}
+.temperature-contrainer{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    padding: 10px;
+    background-color: rgb(217, 210, 210);
+    margin-bottom: 0.5rem;
+}
+.temperature-title{
+    color:darkblue
+}
